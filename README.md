@@ -9,6 +9,11 @@ demo to show the features explored by git hub
       <input type="text" name="n1">
       <input type="text" name="n2">
       <input type="button" value="add">
+      <select >
+        <option>html</option>
+          <option>css</option>
+          <option>js</option>
+      </select>
     </form>
   </body>
 </html>
