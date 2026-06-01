@@ -8,6 +8,7 @@ demo to show the features explored by git hub
     <form>
       <input type="text" name="n1">
       <input type="text" name="n2">
+      <input type="button" value="add">
     </form>
   </body>
 </html>
